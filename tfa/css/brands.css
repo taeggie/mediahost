@@ -1,0 +1,1538 @@
+/*!
+ * Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com
+ * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
+ * Copyright 2023 Fonticons, Inc.
+ * NOTE: prefixed with "t" and "Taeggie " to avoid compatibility issues on websites
+ */
+:root, :host {
+  --fa-style-family-brands: 'Taeggie Font Awesome 6 Brands';
+  --fa-font-brands: normal 400 1em/1 'Taeggie Font Awesome 6 Brands'; }
+
+@font-face {
+  font-family: 'Taeggie Font Awesome 6 Brands';
+  font-style: normal;
+  font-weight: 400;
+  font-display: block;
+  src: url("../webfonts/tfa-brands-400.woff2") format("woff2"), url("../webfonts/tfa-brands-400.ttf") format("truetype"); }
+
+.tfab,
+.tfa-brands {
+  font-weight: 400; }
+
+.tfa-monero:before {
+  content: "\f3d0"; }
+
+.tfa-hooli:before {
+  content: "\f427"; }
+
+.tfa-yelp:before {
+  content: "\f1e9"; }
+
+.tfa-cc-visa:before {
+  content: "\f1f0"; }
+
+.tfa-lastfm:before {
+  content: "\f202"; }
+
+.tfa-shopware:before {
+  content: "\f5b5"; }
+
+.tfa-creative-commons-nc:before {
+  content: "\f4e8"; }
+
+.tfa-aws:before {
+  content: "\f375"; }
+
+.tfa-redhat:before {
+  content: "\f7bc"; }
+
+.tfa-yoast:before {
+  content: "\f2b1"; }
+
+.tfa-cloudflare:before {
+  content: "\e07d"; }
+
+.tfa-ups:before {
+  content: "\f7e0"; }
+
+.tfa-wpexplorer:before {
+  content: "\f2de"; }
+
+.tfa-dyalog:before {
+  content: "\f399"; }
+
+.tfa-bity:before {
+  content: "\f37a"; }
+
+.tfa-stackpath:before {
+  content: "\f842"; }
+
+.tfa-buysellads:before {
+  content: "\f20d"; }
+
+.tfa-first-order:before {
+  content: "\f2b0"; }
+
+.tfa-modx:before {
+  content: "\f285"; }
+
+.tfa-guilded:before {
+  content: "\e07e"; }
+
+.tfa-vnv:before {
+  content: "\f40b"; }
+
+.tfa-square-js:before {
+  content: "\f3b9"; }
+
+.tfa-js-square:before {
+  content: "\f3b9"; }
+
+.tfa-microsoft:before {
+  content: "\f3ca"; }
+
+.tfa-qq:before {
+  content: "\f1d6"; }
+
+.tfa-orcid:before {
+  content: "\f8d2"; }
+
+.tfa-java:before {
+  content: "\f4e4"; }
+
+.tfa-invision:before {
+  content: "\f7b0"; }
+
+.tfa-creative-commons-pd-alt:before {
+  content: "\f4ed"; }
+
+.tfa-centercode:before {
+  content: "\f380"; }
+
+.tfa-glide-g:before {
+  content: "\f2a6"; }
+
+.tfa-drupal:before {
+  content: "\f1a9"; }
+
+.tfa-hire-a-helper:before {
+  content: "\f3b0"; }
+
+.tfa-creative-commons-by:before {
+  content: "\f4e7"; }
+
+.tfa-unity:before {
+  content: "\e049"; }
+
+.tfa-whmcs:before {
+  content: "\f40d"; }
+
+.tfa-rocketchat:before {
+  content: "\f3e8"; }
+
+.tfa-vk:before {
+  content: "\f189"; }
+
+.tfa-untappd:before {
+  content: "\f405"; }
+
+.tfa-mailchimp:before {
+  content: "\f59e"; }
+
+.tfa-css3-alt:before {
+  content: "\f38b"; }
+
+.tfa-square-reddit:before {
+  content: "\f1a2"; }
+
+.tfa-reddit-square:before {
+  content: "\f1a2"; }
+
+.tfa-vimeo-v:before {
+  content: "\f27d"; }
+
+.tfa-contao:before {
+  content: "\f26d"; }
+
+.tfa-square-font-awesome:before {
+  content: "\e5ad"; }
+
+.tfa-deskpro:before {
+  content: "\f38f"; }
+
+.tfa-sistrix:before {
+  content: "\f3ee"; }
+
+.tfa-square-instagram:before {
+  content: "\e055"; }
+
+.tfa-instagram-square:before {
+  content: "\e055"; }
+
+.tfa-battle-net:before {
+  content: "\f835"; }
+
+.tfa-the-red-yeti:before {
+  content: "\f69d"; }
+
+.tfa-square-hacker-news:before {
+  content: "\f3af"; }
+
+.tfa-hacker-news-square:before {
+  content: "\f3af"; }
+
+.tfa-edge:before {
+  content: "\f282"; }
+
+.tfa-threads:before {
+  content: "\e618"; }
+
+.tfa-napster:before {
+  content: "\f3d2"; }
+
+.tfa-square-snapchat:before {
+  content: "\f2ad"; }
+
+.tfa-snapchat-square:before {
+  content: "\f2ad"; }
+
+.tfa-google-plus-g:before {
+  content: "\f0d5"; }
+
+.tfa-artstation:before {
+  content: "\f77a"; }
+
+.tfa-markdown:before {
+  content: "\f60f"; }
+
+.tfa-sourcetree:before {
+  content: "\f7d3"; }
+
+.tfa-google-plus:before {
+  content: "\f2b3"; }
+
+.tfa-diaspora:before {
+  content: "\f791"; }
+
+.tfa-foursquare:before {
+  content: "\f180"; }
+
+.tfa-stack-overflow:before {
+  content: "\f16c"; }
+
+.tfa-github-alt:before {
+  content: "\f113"; }
+
+.tfa-phoenix-squadron:before {
+  content: "\f511"; }
+
+.tfa-pagelines:before {
+  content: "\f18c"; }
+
+.tfa-algolia:before {
+  content: "\f36c"; }
+
+.tfa-red-river:before {
+  content: "\f3e3"; }
+
+.tfa-creative-commons-sa:before {
+  content: "\f4ef"; }
+
+.tfa-safari:before {
+  content: "\f267"; }
+
+.tfa-google:before {
+  content: "\f1a0"; }
+
+.tfa-square-font-awesome-stroke:before {
+  content: "\f35c"; }
+
+.tfa-font-awesome-alt:before {
+  content: "\f35c"; }
+
+.tfa-atlassian:before {
+  content: "\f77b"; }
+
+.tfa-linkedin-in:before {
+  content: "\f0e1"; }
+
+.tfa-digital-ocean:before {
+  content: "\f391"; }
+
+.tfa-nimblr:before {
+  content: "\f5a8"; }
+
+.tfa-chromecast:before {
+  content: "\f838"; }
+
+.tfa-evernote:before {
+  content: "\f839"; }
+
+.tfa-hacker-news:before {
+  content: "\f1d4"; }
+
+.tfa-creative-commons-sampling:before {
+  content: "\f4f0"; }
+
+.tfa-adversal:before {
+  content: "\f36a"; }
+
+.tfa-creative-commons:before {
+  content: "\f25e"; }
+
+.tfa-watchman-monitoring:before {
+  content: "\e087"; }
+
+.tfa-fonticons:before {
+  content: "\f280"; }
+
+.tfa-weixin:before {
+  content: "\f1d7"; }
+
+.tfa-shirtsinbulk:before {
+  content: "\f214"; }
+
+.tfa-codepen:before {
+  content: "\f1cb"; }
+
+.tfa-git-alt:before {
+  content: "\f841"; }
+
+.tfa-lyft:before {
+  content: "\f3c3"; }
+
+.tfa-rev:before {
+  content: "\f5b2"; }
+
+.tfa-windows:before {
+  content: "\f17a"; }
+
+.tfa-wizards-of-the-coast:before {
+  content: "\f730"; }
+
+.tfa-square-viadeo:before {
+  content: "\f2aa"; }
+
+.tfa-viadeo-square:before {
+  content: "\f2aa"; }
+
+.tfa-meetup:before {
+  content: "\f2e0"; }
+
+.tfa-centos:before {
+  content: "\f789"; }
+
+.tfa-adn:before {
+  content: "\f170"; }
+
+.tfa-cloudsmith:before {
+  content: "\f384"; }
+
+.tfa-pied-piper-alt:before {
+  content: "\f1a8"; }
+
+.tfa-square-dribbble:before {
+  content: "\f397"; }
+
+.tfa-dribbble-square:before {
+  content: "\f397"; }
+
+.tfa-codiepie:before {
+  content: "\f284"; }
+
+.tfa-node:before {
+  content: "\f419"; }
+
+.tfa-mix:before {
+  content: "\f3cb"; }
+
+.tfa-steam:before {
+  content: "\f1b6"; }
+
+.tfa-cc-apple-pay:before {
+  content: "\f416"; }
+
+.tfa-scribd:before {
+  content: "\f28a"; }
+
+.tfa-debian:before {
+  content: "\e60b"; }
+
+.tfa-openid:before {
+  content: "\f19b"; }
+
+.tfa-instalod:before {
+  content: "\e081"; }
+
+.tfa-expeditedssl:before {
+  content: "\f23e"; }
+
+.tfa-sellcast:before {
+  content: "\f2da"; }
+
+.tfa-square-twitter:before {
+  content: "\f081"; }
+
+.tfa-twitter-square:before {
+  content: "\f081"; }
+
+.tfa-r-project:before {
+  content: "\f4f7"; }
+
+.tfa-delicious:before {
+  content: "\f1a5"; }
+
+.tfa-freebsd:before {
+  content: "\f3a4"; }
+
+.tfa-vuejs:before {
+  content: "\f41f"; }
+
+.tfa-accusoft:before {
+  content: "\f369"; }
+
+.tfa-ioxhost:before {
+  content: "\f208"; }
+
+.tfa-fonticons-fi:before {
+  content: "\f3a2"; }
+
+.tfa-app-store:before {
+  content: "\f36f"; }
+
+.tfa-cc-mastercard:before {
+  content: "\f1f1"; }
+
+.tfa-itunes-note:before {
+  content: "\f3b5"; }
+
+.tfa-golang:before {
+  content: "\e40f"; }
+
+.tfa-kickstarter:before {
+  content: "\f3bb"; }
+
+.tfa-grav:before {
+  content: "\f2d6"; }
+
+.tfa-weibo:before {
+  content: "\f18a"; }
+
+.tfa-uncharted:before {
+  content: "\e084"; }
+
+.tfa-firstdraft:before {
+  content: "\f3a1"; }
+
+.tfa-square-youtube:before {
+  content: "\f431"; }
+
+.tfa-youtube-square:before {
+  content: "\f431"; }
+
+.tfa-wikipedia-w:before {
+  content: "\f266"; }
+
+.tfa-wpressr:before {
+  content: "\f3e4"; }
+
+.tfa-rendact:before {
+  content: "\f3e4"; }
+
+.tfa-angellist:before {
+  content: "\f209"; }
+
+.tfa-galactic-republic:before {
+  content: "\f50c"; }
+
+.tfa-nfc-directional:before {
+  content: "\e530"; }
+
+.tfa-skype:before {
+  content: "\f17e"; }
+
+.tfa-joget:before {
+  content: "\f3b7"; }
+
+.tfa-fedora:before {
+  content: "\f798"; }
+
+.tfa-stripe-s:before {
+  content: "\f42a"; }
+
+.tfa-meta:before {
+  content: "\e49b"; }
+
+.tfa-laravel:before {
+  content: "\f3bd"; }
+
+.tfa-hotjar:before {
+  content: "\f3b1"; }
+
+.tfa-bluetooth-b:before {
+  content: "\f294"; }
+
+.tfa-sticker-mule:before {
+  content: "\f3f7"; }
+
+.tfa-creative-commons-zero:before {
+  content: "\f4f3"; }
+
+.tfa-hips:before {
+  content: "\f452"; }
+
+.tfa-behance:before {
+  content: "\f1b4"; }
+
+.tfa-reddit:before {
+  content: "\f1a1"; }
+
+.tfa-discord:before {
+  content: "\f392"; }
+
+.tfa-chrome:before {
+  content: "\f268"; }
+
+.tfa-app-store-ios:before {
+  content: "\f370"; }
+
+.tfa-cc-discover:before {
+  content: "\f1f2"; }
+
+.tfa-wpbeginner:before {
+  content: "\f297"; }
+
+.tfa-confluence:before {
+  content: "\f78d"; }
+
+.tfa-mdb:before {
+  content: "\f8ca"; }
+
+.tfa-dochub:before {
+  content: "\f394"; }
+
+.tfa-accessible-icon:before {
+  content: "\f368"; }
+
+.tfa-ebay:before {
+  content: "\f4f4"; }
+
+.tfa-amazon:before {
+  content: "\f270"; }
+
+.tfa-unsplash:before {
+  content: "\e07c"; }
+
+.tfa-yarn:before {
+  content: "\f7e3"; }
+
+.tfa-square-steam:before {
+  content: "\f1b7"; }
+
+.tfa-steam-square:before {
+  content: "\f1b7"; }
+
+.tfa-500px:before {
+  content: "\f26e"; }
+
+.tfa-square-vimeo:before {
+  content: "\f194"; }
+
+.tfa-vimeo-square:before {
+  content: "\f194"; }
+
+.tfa-asymmetrik:before {
+  content: "\f372"; }
+
+.tfa-font-awesome:before {
+  content: "\f2b4"; }
+
+.tfa-font-awesome-flag:before {
+  content: "\f2b4"; }
+
+.tfa-font-awesome-logo-full:before {
+  content: "\f2b4"; }
+
+.tfa-gratipay:before {
+  content: "\f184"; }
+
+.tfa-apple:before {
+  content: "\f179"; }
+
+.tfa-hive:before {
+  content: "\e07f"; }
+
+.tfa-gitkraken:before {
+  content: "\f3a6"; }
+
+.tfa-keybase:before {
+  content: "\f4f5"; }
+
+.tfa-apple-pay:before {
+  content: "\f415"; }
+
+.tfa-padlet:before {
+  content: "\e4a0"; }
+
+.tfa-amazon-pay:before {
+  content: "\f42c"; }
+
+.tfa-square-github:before {
+  content: "\f092"; }
+
+.tfa-github-square:before {
+  content: "\f092"; }
+
+.tfa-stumbleupon:before {
+  content: "\f1a4"; }
+
+.tfa-fedex:before {
+  content: "\f797"; }
+
+.tfa-phoenix-framework:before {
+  content: "\f3dc"; }
+
+.tfa-shopify:before {
+  content: "\e057"; }
+
+.tfa-neos:before {
+  content: "\f612"; }
+
+.tfa-square-threads:before {
+  content: "\e619"; }
+
+.tfa-hackerrank:before {
+  content: "\f5f7"; }
+
+.tfa-researchgate:before {
+  content: "\f4f8"; }
+
+.tfa-swift:before {
+  content: "\f8e1"; }
+
+.tfa-angular:before {
+  content: "\f420"; }
+
+.tfa-speakap:before {
+  content: "\f3f3"; }
+
+.tfa-angrycreative:before {
+  content: "\f36e"; }
+
+.tfa-y-combinator:before {
+  content: "\f23b"; }
+
+.tfa-empire:before {
+  content: "\f1d1"; }
+
+.tfa-envira:before {
+  content: "\f299"; }
+
+.tfa-square-gitlab:before {
+  content: "\e5ae"; }
+
+.tfa-gitlab-square:before {
+  content: "\e5ae"; }
+
+.tfa-studiovinari:before {
+  content: "\f3f8"; }
+
+.tfa-pied-piper:before {
+  content: "\f2ae"; }
+
+.tfa-wordpress:before {
+  content: "\f19a"; }
+
+.tfa-product-hunt:before {
+  content: "\f288"; }
+
+.tfa-firefox:before {
+  content: "\f269"; }
+
+.tfa-linode:before {
+  content: "\f2b8"; }
+
+.tfa-goodreads:before {
+  content: "\f3a8"; }
+
+.tfa-square-odnoklassniki:before {
+  content: "\f264"; }
+
+.tfa-odnoklassniki-square:before {
+  content: "\f264"; }
+
+.tfa-jsfiddle:before {
+  content: "\f1cc"; }
+
+.tfa-sith:before {
+  content: "\f512"; }
+
+.tfa-themeisle:before {
+  content: "\f2b2"; }
+
+.tfa-page4:before {
+  content: "\f3d7"; }
+
+.tfa-hashnode:before {
+  content: "\e499"; }
+
+.tfa-react:before {
+  content: "\f41b"; }
+
+.tfa-cc-paypal:before {
+  content: "\f1f4"; }
+
+.tfa-squarespace:before {
+  content: "\f5be"; }
+
+.tfa-cc-stripe:before {
+  content: "\f1f5"; }
+
+.tfa-creative-commons-share:before {
+  content: "\f4f2"; }
+
+.tfa-bitcoin:before {
+  content: "\f379"; }
+
+.tfa-keycdn:before {
+  content: "\f3ba"; }
+
+.tfa-opera:before {
+  content: "\f26a"; }
+
+.tfa-itch-io:before {
+  content: "\f83a"; }
+
+.tfa-umbraco:before {
+  content: "\f8e8"; }
+
+.tfa-galactic-senate:before {
+  content: "\f50d"; }
+
+.tfa-ubuntu:before {
+  content: "\f7df"; }
+
+.tfa-draft2digital:before {
+  content: "\f396"; }
+
+.tfa-stripe:before {
+  content: "\f429"; }
+
+.tfa-houzz:before {
+  content: "\f27c"; }
+
+.tfa-gg:before {
+  content: "\f260"; }
+
+.tfa-dhl:before {
+  content: "\f790"; }
+
+.tfa-square-pinterest:before {
+  content: "\f0d3"; }
+
+.tfa-pinterest-square:before {
+  content: "\f0d3"; }
+
+.tfa-xing:before {
+  content: "\f168"; }
+
+.tfa-blackberry:before {
+  content: "\f37b"; }
+
+.tfa-creative-commons-pd:before {
+  content: "\f4ec"; }
+
+.tfa-playstation:before {
+  content: "\f3df"; }
+
+.tfa-quinscape:before {
+  content: "\f459"; }
+
+.tfa-less:before {
+  content: "\f41d"; }
+
+.tfa-blogger-b:before {
+  content: "\f37d"; }
+
+.tfa-opencart:before {
+  content: "\f23d"; }
+
+.tfa-vine:before {
+  content: "\f1ca"; }
+
+.tfa-paypal:before {
+  content: "\f1ed"; }
+
+.tfa-gitlab:before {
+  content: "\f296"; }
+
+.tfa-typo3:before {
+  content: "\f42b"; }
+
+.tfa-reddit-alien:before {
+  content: "\f281"; }
+
+.tfa-yahoo:before {
+  content: "\f19e"; }
+
+.tfa-dailymotion:before {
+  content: "\e052"; }
+
+.tfa-affiliatetheme:before {
+  content: "\f36b"; }
+
+.tfa-pied-piper-pp:before {
+  content: "\f1a7"; }
+
+.tfa-bootstrap:before {
+  content: "\f836"; }
+
+.tfa-odnoklassniki:before {
+  content: "\f263"; }
+
+.tfa-nfc-symbol:before {
+  content: "\e531"; }
+
+.tfa-ethereum:before {
+  content: "\f42e"; }
+
+.tfa-speaker-deck:before {
+  content: "\f83c"; }
+
+.tfa-creative-commons-nc-eu:before {
+  content: "\f4e9"; }
+
+.tfa-patreon:before {
+  content: "\f3d9"; }
+
+.tfa-avianex:before {
+  content: "\f374"; }
+
+.tfa-ello:before {
+  content: "\f5f1"; }
+
+.tfa-gofore:before {
+  content: "\f3a7"; }
+
+.tfa-bimobject:before {
+  content: "\f378"; }
+
+.tfa-facebook-f:before {
+  content: "\f39e"; }
+
+.tfa-square-google-plus:before {
+  content: "\f0d4"; }
+
+.tfa-google-plus-square:before {
+  content: "\f0d4"; }
+
+.tfa-mandalorian:before {
+  content: "\f50f"; }
+
+.tfa-first-order-alt:before {
+  content: "\f50a"; }
+
+.tfa-osi:before {
+  content: "\f41a"; }
+
+.tfa-google-wallet:before {
+  content: "\f1ee"; }
+
+.tfa-d-and-d-beyond:before {
+  content: "\f6ca"; }
+
+.tfa-periscope:before {
+  content: "\f3da"; }
+
+.tfa-fulcrum:before {
+  content: "\f50b"; }
+
+.tfa-cloudscale:before {
+  content: "\f383"; }
+
+.tfa-forumbee:before {
+  content: "\f211"; }
+
+.tfa-mizuni:before {
+  content: "\f3cc"; }
+
+.tfa-schlix:before {
+  content: "\f3ea"; }
+
+.tfa-square-xing:before {
+  content: "\f169"; }
+
+.tfa-xing-square:before {
+  content: "\f169"; }
+
+.tfa-bandcamp:before {
+  content: "\f2d5"; }
+
+.tfa-wpforms:before {
+  content: "\f298"; }
+
+.tfa-cloudversify:before {
+  content: "\f385"; }
+
+.tfa-usps:before {
+  content: "\f7e1"; }
+
+.tfa-megaport:before {
+  content: "\f5a3"; }
+
+.tfa-magento:before {
+  content: "\f3c4"; }
+
+.tfa-spotify:before {
+  content: "\f1bc"; }
+
+.tfa-optin-monster:before {
+  content: "\f23c"; }
+
+.tfa-fly:before {
+  content: "\f417"; }
+
+.tfa-aviato:before {
+  content: "\f421"; }
+
+.tfa-itunes:before {
+  content: "\f3b4"; }
+
+.tfa-cuttlefish:before {
+  content: "\f38c"; }
+
+.tfa-blogger:before {
+  content: "\f37c"; }
+
+.tfa-flickr:before {
+  content: "\f16e"; }
+
+.tfa-viber:before {
+  content: "\f409"; }
+
+.tfa-soundcloud:before {
+  content: "\f1be"; }
+
+.tfa-digg:before {
+  content: "\f1a6"; }
+
+.tfa-tencent-weibo:before {
+  content: "\f1d5"; }
+
+.tfa-symfony:before {
+  content: "\f83d"; }
+
+.tfa-maxcdn:before {
+  content: "\f136"; }
+
+.tfa-etsy:before {
+  content: "\f2d7"; }
+
+.tfa-facebook-messenger:before {
+  content: "\f39f"; }
+
+.tfa-audible:before {
+  content: "\f373"; }
+
+.tfa-think-peaks:before {
+  content: "\f731"; }
+
+.tfa-bilibili:before {
+  content: "\e3d9"; }
+
+.tfa-erlang:before {
+  content: "\f39d"; }
+
+.tfa-x-twitter:before {
+  content: "\e61b"; }
+
+.tfa-cotton-bureau:before {
+  content: "\f89e"; }
+
+.tfa-dashcube:before {
+  content: "\f210"; }
+
+.tfa-42-group:before {
+  content: "\e080"; }
+
+.tfa-innosoft:before {
+  content: "\e080"; }
+
+.tfa-stack-exchange:before {
+  content: "\f18d"; }
+
+.tfa-elementor:before {
+  content: "\f430"; }
+
+.tfa-square-pied-piper:before {
+  content: "\e01e"; }
+
+.tfa-pied-piper-square:before {
+  content: "\e01e"; }
+
+.tfa-creative-commons-nd:before {
+  content: "\f4eb"; }
+
+.tfa-palfed:before {
+  content: "\f3d8"; }
+
+.tfa-superpowers:before {
+  content: "\f2dd"; }
+
+.tfa-resolving:before {
+  content: "\f3e7"; }
+
+.tfa-xbox:before {
+  content: "\f412"; }
+
+.tfa-searchengin:before {
+  content: "\f3eb"; }
+
+.tfa-tiktok:before {
+  content: "\e07b"; }
+
+.tfa-square-facebook:before {
+  content: "\f082"; }
+
+.tfa-facebook-square:before {
+  content: "\f082"; }
+
+.tfa-renren:before {
+  content: "\f18b"; }
+
+.tfa-linux:before {
+  content: "\f17c"; }
+
+.tfa-glide:before {
+  content: "\f2a5"; }
+
+.tfa-linkedin:before {
+  content: "\f08c"; }
+
+.tfa-hubspot:before {
+  content: "\f3b2"; }
+
+.tfa-deploydog:before {
+  content: "\f38e"; }
+
+.tfa-twitch:before {
+  content: "\f1e8"; }
+
+.tfa-ravelry:before {
+  content: "\f2d9"; }
+
+.tfa-mixer:before {
+  content: "\e056"; }
+
+.tfa-square-lastfm:before {
+  content: "\f203"; }
+
+.tfa-lastfm-square:before {
+  content: "\f203"; }
+
+.tfa-vimeo:before {
+  content: "\f40a"; }
+
+.tfa-mendeley:before {
+  content: "\f7b3"; }
+
+.tfa-uniregistry:before {
+  content: "\f404"; }
+
+.tfa-figma:before {
+  content: "\f799"; }
+
+.tfa-creative-commons-remix:before {
+  content: "\f4ee"; }
+
+.tfa-cc-amazon-pay:before {
+  content: "\f42d"; }
+
+.tfa-dropbox:before {
+  content: "\f16b"; }
+
+.tfa-instagram:before {
+  content: "\f16d"; }
+
+.tfa-cmplid:before {
+  content: "\e360"; }
+
+.tfa-facebook:before {
+  content: "\f09a"; }
+
+.tfa-gripfire:before {
+  content: "\f3ac"; }
+
+.tfa-jedi-order:before {
+  content: "\f50e"; }
+
+.tfa-uikit:before {
+  content: "\f403"; }
+
+.tfa-fort-awesome-alt:before {
+  content: "\f3a3"; }
+
+.tfa-phabricator:before {
+  content: "\f3db"; }
+
+.tfa-ussunnah:before {
+  content: "\f407"; }
+
+.tfa-earlybirds:before {
+  content: "\f39a"; }
+
+.tfa-trade-federation:before {
+  content: "\f513"; }
+
+.tfa-autoprefixer:before {
+  content: "\f41c"; }
+
+.tfa-whatsapp:before {
+  content: "\f232"; }
+
+.tfa-slideshare:before {
+  content: "\f1e7"; }
+
+.tfa-google-play:before {
+  content: "\f3ab"; }
+
+.tfa-viadeo:before {
+  content: "\f2a9"; }
+
+.tfa-line:before {
+  content: "\f3c0"; }
+
+.tfa-google-drive:before {
+  content: "\f3aa"; }
+
+.tfa-servicestack:before {
+  content: "\f3ec"; }
+
+.tfa-simplybuilt:before {
+  content: "\f215"; }
+
+.tfa-bitbucket:before {
+  content: "\f171"; }
+
+.tfa-imdb:before {
+  content: "\f2d8"; }
+
+.tfa-deezer:before {
+  content: "\e077"; }
+
+.tfa-raspberry-pi:before {
+  content: "\f7bb"; }
+
+.tfa-jira:before {
+  content: "\f7b1"; }
+
+.tfa-docker:before {
+  content: "\f395"; }
+
+.tfa-screenpal:before {
+  content: "\e570"; }
+
+.tfa-bluetooth:before {
+  content: "\f293"; }
+
+.tfa-gitter:before {
+  content: "\f426"; }
+
+.tfa-d-and-d:before {
+  content: "\f38d"; }
+
+.tfa-microblog:before {
+  content: "\e01a"; }
+
+.tfa-cc-diners-club:before {
+  content: "\f24c"; }
+
+.tfa-gg-circle:before {
+  content: "\f261"; }
+
+.tfa-pied-piper-hat:before {
+  content: "\f4e5"; }
+
+.tfa-kickstarter-k:before {
+  content: "\f3bc"; }
+
+.tfa-yandex:before {
+  content: "\f413"; }
+
+.tfa-readme:before {
+  content: "\f4d5"; }
+
+.tfa-html5:before {
+  content: "\f13b"; }
+
+.tfa-sellsy:before {
+  content: "\f213"; }
+
+.tfa-sass:before {
+  content: "\f41e"; }
+
+.tfa-wirsindhandwerk:before {
+  content: "\e2d0"; }
+
+.tfa-wsh:before {
+  content: "\e2d0"; }
+
+.tfa-buromobelexperte:before {
+  content: "\f37f"; }
+
+.tfa-salesforce:before {
+  content: "\f83b"; }
+
+.tfa-octopus-deploy:before {
+  content: "\e082"; }
+
+.tfa-medapps:before {
+  content: "\f3c6"; }
+
+.tfa-ns8:before {
+  content: "\f3d5"; }
+
+.tfa-pinterest-p:before {
+  content: "\f231"; }
+
+.tfa-apper:before {
+  content: "\f371"; }
+
+.tfa-fort-awesome:before {
+  content: "\f286"; }
+
+.tfa-waze:before {
+  content: "\f83f"; }
+
+.tfa-cc-jcb:before {
+  content: "\f24b"; }
+
+.tfa-snapchat:before {
+  content: "\f2ab"; }
+
+.tfa-snapchat-ghost:before {
+  content: "\f2ab"; }
+
+.tfa-fantasy-flight-games:before {
+  content: "\f6dc"; }
+
+.tfa-rust:before {
+  content: "\e07a"; }
+
+.tfa-wix:before {
+  content: "\f5cf"; }
+
+.tfa-square-behance:before {
+  content: "\f1b5"; }
+
+.tfa-behance-square:before {
+  content: "\f1b5"; }
+
+.tfa-supple:before {
+  content: "\f3f9"; }
+
+.tfa-rebel:before {
+  content: "\f1d0"; }
+
+.tfa-css3:before {
+  content: "\f13c"; }
+
+.tfa-staylinked:before {
+  content: "\f3f5"; }
+
+.tfa-kaggle:before {
+  content: "\f5fa"; }
+
+.tfa-space-awesome:before {
+  content: "\e5ac"; }
+
+.tfa-deviantart:before {
+  content: "\f1bd"; }
+
+.tfa-cpanel:before {
+  content: "\f388"; }
+
+.tfa-goodreads-g:before {
+  content: "\f3a9"; }
+
+.tfa-square-git:before {
+  content: "\f1d2"; }
+
+.tfa-git-square:before {
+  content: "\f1d2"; }
+
+.tfa-square-tumblr:before {
+  content: "\f174"; }
+
+.tfa-tumblr-square:before {
+  content: "\f174"; }
+
+.tfa-trello:before {
+  content: "\f181"; }
+
+.tfa-creative-commons-nc-jp:before {
+  content: "\f4ea"; }
+
+.tfa-get-pocket:before {
+  content: "\f265"; }
+
+.tfa-perbyte:before {
+  content: "\e083"; }
+
+.tfa-grunt:before {
+  content: "\f3ad"; }
+
+.tfa-weebly:before {
+  content: "\f5cc"; }
+
+.tfa-connectdevelop:before {
+  content: "\f20e"; }
+
+.tfa-leanpub:before {
+  content: "\f212"; }
+
+.tfa-black-tie:before {
+  content: "\f27e"; }
+
+.tfa-themeco:before {
+  content: "\f5c6"; }
+
+.tfa-python:before {
+  content: "\f3e2"; }
+
+.tfa-android:before {
+  content: "\f17b"; }
+
+.tfa-bots:before {
+  content: "\e340"; }
+
+.tfa-free-code-camp:before {
+  content: "\f2c5"; }
+
+.tfa-hornbill:before {
+  content: "\f592"; }
+
+.tfa-js:before {
+  content: "\f3b8"; }
+
+.tfa-ideal:before {
+  content: "\e013"; }
+
+.tfa-git:before {
+  content: "\f1d3"; }
+
+.tfa-dev:before {
+  content: "\f6cc"; }
+
+.tfa-sketch:before {
+  content: "\f7c6"; }
+
+.tfa-yandex-international:before {
+  content: "\f414"; }
+
+.tfa-cc-amex:before {
+  content: "\f1f3"; }
+
+.tfa-uber:before {
+  content: "\f402"; }
+
+.tfa-github:before {
+  content: "\f09b"; }
+
+.tfa-php:before {
+  content: "\f457"; }
+
+.tfa-alipay:before {
+  content: "\f642"; }
+
+.tfa-youtube:before {
+  content: "\f167"; }
+
+.tfa-skyatlas:before {
+  content: "\f216"; }
+
+.tfa-firefox-browser:before {
+  content: "\e007"; }
+
+.tfa-replyd:before {
+  content: "\f3e6"; }
+
+.tfa-suse:before {
+  content: "\f7d6"; }
+
+.tfa-jenkins:before {
+  content: "\f3b6"; }
+
+.tfa-twitter:before {
+  content: "\f099"; }
+
+.tfa-rockrms:before {
+  content: "\f3e9"; }
+
+.tfa-pinterest:before {
+  content: "\f0d2"; }
+
+.tfa-buffer:before {
+  content: "\f837"; }
+
+.tfa-npm:before {
+  content: "\f3d4"; }
+
+.tfa-yammer:before {
+  content: "\f840"; }
+
+.tfa-btc:before {
+  content: "\f15a"; }
+
+.tfa-dribbble:before {
+  content: "\f17d"; }
+
+.tfa-stumbleupon-circle:before {
+  content: "\f1a3"; }
+
+.tfa-internet-explorer:before {
+  content: "\f26b"; }
+
+.tfa-stubber:before {
+  content: "\e5c7"; }
+
+.tfa-telegram:before {
+  content: "\f2c6"; }
+
+.tfa-telegram-plane:before {
+  content: "\f2c6"; }
+
+.tfa-old-republic:before {
+  content: "\f510"; }
+
+.tfa-odysee:before {
+  content: "\e5c6"; }
+
+.tfa-square-whatsapp:before {
+  content: "\f40c"; }
+
+.tfa-whatsapp-square:before {
+  content: "\f40c"; }
+
+.tfa-node-js:before {
+  content: "\f3d3"; }
+
+.tfa-edge-legacy:before {
+  content: "\e078"; }
+
+.tfa-slack:before {
+  content: "\f198"; }
+
+.tfa-slack-hash:before {
+  content: "\f198"; }
+
+.tfa-medrt:before {
+  content: "\f3c8"; }
+
+.tfa-usb:before {
+  content: "\f287"; }
+
+.tfa-tumblr:before {
+  content: "\f173"; }
+
+.tfa-vaadin:before {
+  content: "\f408"; }
+
+.tfa-quora:before {
+  content: "\f2c4"; }
+
+.tfa-square-x-twitter:before {
+  content: "\e61a"; }
+
+.tfa-reacteurope:before {
+  content: "\f75d"; }
+
+.tfa-medium:before {
+  content: "\f23a"; }
+
+.tfa-medium-m:before {
+  content: "\f23a"; }
+
+.tfa-amilia:before {
+  content: "\f36d"; }
+
+.tfa-mixcloud:before {
+  content: "\f289"; }
+
+.tfa-flipboard:before {
+  content: "\f44d"; }
+
+.tfa-viacoin:before {
+  content: "\f237"; }
+
+.tfa-critical-role:before {
+  content: "\f6c9"; }
+
+.tfa-sitrox:before {
+  content: "\e44a"; }
+
+.tfa-discourse:before {
+  content: "\f393"; }
+
+.tfa-joomla:before {
+  content: "\f1aa"; }
+
+.tfa-mastodon:before {
+  content: "\f4f6"; }
+
+.tfa-airbnb:before {
+  content: "\f834"; }
+
+.tfa-wolf-pack-battalion:before {
+  content: "\f514"; }
+
+.tfa-buy-n-large:before {
+  content: "\f8a6"; }
+
+.tfa-gulp:before {
+  content: "\f3ae"; }
+
+.tfa-creative-commons-sampling-plus:before {
+  content: "\f4f1"; }
+
+.tfa-strava:before {
+  content: "\f428"; }
+
+.tfa-ember:before {
+  content: "\f423"; }
+
+.tfa-canadian-maple-leaf:before {
+  content: "\f785"; }
+
+.tfa-teamspeak:before {
+  content: "\f4f9"; }
+
+.tfa-pushed:before {
+  content: "\f3e1"; }
+
+.tfa-wordpress-simple:before {
+  content: "\f411"; }
+
+.tfa-nutritionix:before {
+  content: "\f3d6"; }
+
+.tfa-wodu:before {
+  content: "\e088"; }
+
+.tfa-google-pay:before {
+  content: "\e079"; }
+
+.tfa-intercom:before {
+  content: "\f7af"; }
+
+.tfa-zhihu:before {
+  content: "\f63f"; }
+
+.tfa-korvue:before {
+  content: "\f42f"; }
+
+.tfa-pix:before {
+  content: "\e43a"; }
+
+.tfa-steam-symbol:before {
+  content: "\f3f6"; }

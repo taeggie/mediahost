@@ -14,1596 +14,1596 @@
   font-display: block;
   src: url("../webfonts/tfa-brands-400-2025.woff2") format("woff2"), url("../webfonts/tfa-brands-400-2025.ttf") format("truetype"); }
 
-.fab,
-.fa-brands {
+.tfab,
+.tfa-brands {
   font-weight: 400; }
 
-.fa-monero {
+.tfa-monero {
   --fa: "\f3d0"; }
 
-.fa-hooli {
+.tfa-hooli {
   --fa: "\f427"; }
 
-.fa-yelp {
+.tfa-yelp {
   --fa: "\f1e9"; }
 
-.fa-cc-visa {
+.tfa-cc-visa {
   --fa: "\f1f0"; }
 
-.fa-lastfm {
+.tfa-lastfm {
   --fa: "\f202"; }
 
-.fa-shopware {
+.tfa-shopware {
   --fa: "\f5b5"; }
 
-.fa-creative-commons-nc {
+.tfa-creative-commons-nc {
   --fa: "\f4e8"; }
 
-.fa-aws {
+.tfa-aws {
   --fa: "\f375"; }
 
-.fa-redhat {
+.tfa-redhat {
   --fa: "\f7bc"; }
 
-.fa-yoast {
+.tfa-yoast {
   --fa: "\f2b1"; }
 
-.fa-cloudflare {
+.tfa-cloudflare {
   --fa: "\e07d"; }
 
-.fa-ups {
+.tfa-ups {
   --fa: "\f7e0"; }
 
-.fa-pixiv {
+.tfa-pixiv {
   --fa: "\e640"; }
 
-.fa-wpexplorer {
+.tfa-wpexplorer {
   --fa: "\f2de"; }
 
-.fa-dyalog {
+.tfa-dyalog {
   --fa: "\f399"; }
 
-.fa-bity {
+.tfa-bity {
   --fa: "\f37a"; }
 
-.fa-stackpath {
+.tfa-stackpath {
   --fa: "\f842"; }
 
-.fa-buysellads {
+.tfa-buysellads {
   --fa: "\f20d"; }
 
-.fa-first-order {
+.tfa-first-order {
   --fa: "\f2b0"; }
 
-.fa-modx {
+.tfa-modx {
   --fa: "\f285"; }
 
-.fa-guilded {
+.tfa-guilded {
   --fa: "\e07e"; }
 
-.fa-vnv {
+.tfa-vnv {
   --fa: "\f40b"; }
 
-.fa-square-js {
+.tfa-square-js {
   --fa: "\f3b9"; }
 
-.fa-js-square {
+.tfa-js-square {
   --fa: "\f3b9"; }
 
-.fa-microsoft {
+.tfa-microsoft {
   --fa: "\f3ca"; }
 
-.fa-qq {
+.tfa-qq {
   --fa: "\f1d6"; }
 
-.fa-orcid {
+.tfa-orcid {
   --fa: "\f8d2"; }
 
-.fa-java {
+.tfa-java {
   --fa: "\f4e4"; }
 
-.fa-invision {
+.tfa-invision {
   --fa: "\f7b0"; }
 
-.fa-creative-commons-pd-alt {
+.tfa-creative-commons-pd-alt {
   --fa: "\f4ed"; }
 
-.fa-centercode {
+.tfa-centercode {
   --fa: "\f380"; }
 
-.fa-glide-g {
+.tfa-glide-g {
   --fa: "\f2a6"; }
 
-.fa-drupal {
+.tfa-drupal {
   --fa: "\f1a9"; }
 
-.fa-jxl {
+.tfa-jxl {
   --fa: "\e67b"; }
 
-.fa-dart-lang {
+.tfa-dart-lang {
   --fa: "\e693"; }
 
-.fa-hire-a-helper {
+.tfa-hire-a-helper {
   --fa: "\f3b0"; }
 
-.fa-creative-commons-by {
+.tfa-creative-commons-by {
   --fa: "\f4e7"; }
 
-.fa-unity {
+.tfa-unity {
   --fa: "\e049"; }
 
-.fa-whmcs {
+.tfa-whmcs {
   --fa: "\f40d"; }
 
-.fa-rocketchat {
+.tfa-rocketchat {
   --fa: "\f3e8"; }
 
-.fa-vk {
+.tfa-vk {
   --fa: "\f189"; }
 
-.fa-untappd {
+.tfa-untappd {
   --fa: "\f405"; }
 
-.fa-mailchimp {
+.tfa-mailchimp {
   --fa: "\f59e"; }
 
-.fa-css3-alt {
+.tfa-css3-alt {
   --fa: "\f38b"; }
 
-.fa-square-reddit {
+.tfa-square-reddit {
   --fa: "\f1a2"; }
 
-.fa-reddit-square {
+.tfa-reddit-square {
   --fa: "\f1a2"; }
 
-.fa-vimeo-v {
+.tfa-vimeo-v {
   --fa: "\f27d"; }
 
-.fa-contao {
+.tfa-contao {
   --fa: "\f26d"; }
 
-.fa-square-font-awesome {
+.tfa-square-font-awesome {
   --fa: "\e5ad"; }
 
-.fa-deskpro {
+.tfa-deskpro {
   --fa: "\f38f"; }
 
-.fa-brave {
+.tfa-brave {
   --fa: "\e63c"; }
 
-.fa-sistrix {
+.tfa-sistrix {
   --fa: "\f3ee"; }
 
-.fa-square-instagram {
+.tfa-square-instagram {
   --fa: "\e055"; }
 
-.fa-instagram-square {
+.tfa-instagram-square {
   --fa: "\e055"; }
 
-.fa-battle-net {
+.tfa-battle-net {
   --fa: "\f835"; }
 
-.fa-the-red-yeti {
+.tfa-the-red-yeti {
   --fa: "\f69d"; }
 
-.fa-square-hacker-news {
+.tfa-square-hacker-news {
   --fa: "\f3af"; }
 
-.fa-hacker-news-square {
+.tfa-hacker-news-square {
   --fa: "\f3af"; }
 
-.fa-edge {
+.tfa-edge {
   --fa: "\f282"; }
 
-.fa-threads {
+.tfa-threads {
   --fa: "\e618"; }
 
-.fa-napster {
+.tfa-napster {
   --fa: "\f3d2"; }
 
-.fa-square-snapchat {
+.tfa-square-snapchat {
   --fa: "\f2ad"; }
 
-.fa-snapchat-square {
+.tfa-snapchat-square {
   --fa: "\f2ad"; }
 
-.fa-google-plus-g {
+.tfa-google-plus-g {
   --fa: "\f0d5"; }
 
-.fa-artstation {
+.tfa-artstation {
   --fa: "\f77a"; }
 
-.fa-markdown {
+.tfa-markdown {
   --fa: "\f60f"; }
 
-.fa-sourcetree {
+.tfa-sourcetree {
   --fa: "\f7d3"; }
 
-.fa-google-plus {
+.tfa-google-plus {
   --fa: "\f2b3"; }
 
-.fa-diaspora {
+.tfa-diaspora {
   --fa: "\f791"; }
 
-.fa-foursquare {
+.tfa-foursquare {
   --fa: "\f180"; }
 
-.fa-stack-overflow {
+.tfa-stack-overflow {
   --fa: "\f16c"; }
 
-.fa-github-alt {
+.tfa-github-alt {
   --fa: "\f113"; }
 
-.fa-phoenix-squadron {
+.tfa-phoenix-squadron {
   --fa: "\f511"; }
 
-.fa-pagelines {
+.tfa-pagelines {
   --fa: "\f18c"; }
 
-.fa-algolia {
+.tfa-algolia {
   --fa: "\f36c"; }
 
-.fa-red-river {
+.tfa-red-river {
   --fa: "\f3e3"; }
 
-.fa-creative-commons-sa {
+.tfa-creative-commons-sa {
   --fa: "\f4ef"; }
 
-.fa-safari {
+.tfa-safari {
   --fa: "\f267"; }
 
-.fa-google {
+.tfa-google {
   --fa: "\f1a0"; }
 
-.fa-square-font-awesome-stroke {
+.tfa-square-font-awesome-stroke {
   --fa: "\f35c"; }
 
-.fa-font-awesome-alt {
+.tfa-font-awesome-alt {
   --fa: "\f35c"; }
 
-.fa-atlassian {
+.tfa-atlassian {
   --fa: "\f77b"; }
 
-.fa-linkedin-in {
+.tfa-linkedin-in {
   --fa: "\f0e1"; }
 
-.fa-digital-ocean {
+.tfa-digital-ocean {
   --fa: "\f391"; }
 
-.fa-nimblr {
+.tfa-nimblr {
   --fa: "\f5a8"; }
 
-.fa-chromecast {
+.tfa-chromecast {
   --fa: "\f838"; }
 
-.fa-evernote {
+.tfa-evernote {
   --fa: "\f839"; }
 
-.fa-hacker-news {
+.tfa-hacker-news {
   --fa: "\f1d4"; }
 
-.fa-creative-commons-sampling {
+.tfa-creative-commons-sampling {
   --fa: "\f4f0"; }
 
-.fa-adversal {
+.tfa-adversal {
   --fa: "\f36a"; }
 
-.fa-creative-commons {
+.tfa-creative-commons {
   --fa: "\f25e"; }
 
-.fa-watchman-monitoring {
+.tfa-watchman-monitoring {
   --fa: "\e087"; }
 
-.fa-fonticons {
+.tfa-fonticons {
   --fa: "\f280"; }
 
-.fa-weixin {
+.tfa-weixin {
   --fa: "\f1d7"; }
 
-.fa-shirtsinbulk {
+.tfa-shirtsinbulk {
   --fa: "\f214"; }
 
-.fa-codepen {
+.tfa-codepen {
   --fa: "\f1cb"; }
 
-.fa-git-alt {
+.tfa-git-alt {
   --fa: "\f841"; }
 
-.fa-lyft {
+.tfa-lyft {
   --fa: "\f3c3"; }
 
-.fa-rev {
+.tfa-rev {
   --fa: "\f5b2"; }
 
-.fa-windows {
+.tfa-windows {
   --fa: "\f17a"; }
 
-.fa-wizards-of-the-coast {
+.tfa-wizards-of-the-coast {
   --fa: "\f730"; }
 
-.fa-square-viadeo {
+.tfa-square-viadeo {
   --fa: "\f2aa"; }
 
-.fa-viadeo-square {
+.tfa-viadeo-square {
   --fa: "\f2aa"; }
 
-.fa-meetup {
+.tfa-meetup {
   --fa: "\f2e0"; }
 
-.fa-centos {
+.tfa-centos {
   --fa: "\f789"; }
 
-.fa-adn {
+.tfa-adn {
   --fa: "\f170"; }
 
-.fa-cloudsmith {
+.tfa-cloudsmith {
   --fa: "\f384"; }
 
-.fa-opensuse {
+.tfa-opensuse {
   --fa: "\e62b"; }
 
-.fa-pied-piper-alt {
+.tfa-pied-piper-alt {
   --fa: "\f1a8"; }
 
-.fa-square-dribbble {
+.tfa-square-dribbble {
   --fa: "\f397"; }
 
-.fa-dribbble-square {
+.tfa-dribbble-square {
   --fa: "\f397"; }
 
-.fa-codiepie {
+.tfa-codiepie {
   --fa: "\f284"; }
 
-.fa-node {
+.tfa-node {
   --fa: "\f419"; }
 
-.fa-mix {
+.tfa-mix {
   --fa: "\f3cb"; }
 
-.fa-steam {
+.tfa-steam {
   --fa: "\f1b6"; }
 
-.fa-cc-apple-pay {
+.tfa-cc-apple-pay {
   --fa: "\f416"; }
 
-.fa-scribd {
+.tfa-scribd {
   --fa: "\f28a"; }
 
-.fa-debian {
+.tfa-debian {
   --fa: "\e60b"; }
 
-.fa-openid {
+.tfa-openid {
   --fa: "\f19b"; }
 
-.fa-instalod {
+.tfa-instalod {
   --fa: "\e081"; }
 
-.fa-files-pinwheel {
+.tfa-files-pinwheel {
   --fa: "\e69f"; }
 
-.fa-expeditedssl {
+.tfa-expeditedssl {
   --fa: "\f23e"; }
 
-.fa-sellcast {
+.tfa-sellcast {
   --fa: "\f2da"; }
 
-.fa-square-twitter {
+.tfa-square-twitter {
   --fa: "\f081"; }
 
-.fa-twitter-square {
+.tfa-twitter-square {
   --fa: "\f081"; }
 
-.fa-r-project {
+.tfa-r-project {
   --fa: "\f4f7"; }
 
-.fa-delicious {
+.tfa-delicious {
   --fa: "\f1a5"; }
 
-.fa-freebsd {
+.tfa-freebsd {
   --fa: "\f3a4"; }
 
-.fa-vuejs {
+.tfa-vuejs {
   --fa: "\f41f"; }
 
-.fa-accusoft {
+.tfa-accusoft {
   --fa: "\f369"; }
 
-.fa-ioxhost {
+.tfa-ioxhost {
   --fa: "\f208"; }
 
-.fa-fonticons-fi {
+.tfa-fonticons-fi {
   --fa: "\f3a2"; }
 
-.fa-app-store {
+.tfa-app-store {
   --fa: "\f36f"; }
 
-.fa-cc-mastercard {
+.tfa-cc-mastercard {
   --fa: "\f1f1"; }
 
-.fa-itunes-note {
+.tfa-itunes-note {
   --fa: "\f3b5"; }
 
-.fa-golang {
+.tfa-golang {
   --fa: "\e40f"; }
 
-.fa-kickstarter {
+.tfa-kickstarter {
   --fa: "\f3bb"; }
 
-.fa-square-kickstarter {
+.tfa-square-kickstarter {
   --fa: "\f3bb"; }
 
-.fa-grav {
+.tfa-grav {
   --fa: "\f2d6"; }
 
-.fa-weibo {
+.tfa-weibo {
   --fa: "\f18a"; }
 
-.fa-uncharted {
+.tfa-uncharted {
   --fa: "\e084"; }
 
-.fa-firstdraft {
+.tfa-firstdraft {
   --fa: "\f3a1"; }
 
-.fa-square-youtube {
+.tfa-square-youtube {
   --fa: "\f431"; }
 
-.fa-youtube-square {
+.tfa-youtube-square {
   --fa: "\f431"; }
 
-.fa-wikipedia-w {
+.tfa-wikipedia-w {
   --fa: "\f266"; }
 
-.fa-wpressr {
+.tfa-wpressr {
   --fa: "\f3e4"; }
 
-.fa-rendact {
+.tfa-rendact {
   --fa: "\f3e4"; }
 
-.fa-angellist {
+.tfa-angellist {
   --fa: "\f209"; }
 
-.fa-galactic-republic {
+.tfa-galactic-republic {
   --fa: "\f50c"; }
 
-.fa-nfc-directional {
+.tfa-nfc-directional {
   --fa: "\e530"; }
 
-.fa-skype {
+.tfa-skype {
   --fa: "\f17e"; }
 
-.fa-joget {
+.tfa-joget {
   --fa: "\f3b7"; }
 
-.fa-fedora {
+.tfa-fedora {
   --fa: "\f798"; }
 
-.fa-stripe-s {
+.tfa-stripe-s {
   --fa: "\f42a"; }
 
-.fa-meta {
+.tfa-meta {
   --fa: "\e49b"; }
 
-.fa-laravel {
+.tfa-laravel {
   --fa: "\f3bd"; }
 
-.fa-hotjar {
+.tfa-hotjar {
   --fa: "\f3b1"; }
 
-.fa-bluetooth-b {
+.tfa-bluetooth-b {
   --fa: "\f294"; }
 
-.fa-square-letterboxd {
+.tfa-square-letterboxd {
   --fa: "\e62e"; }
 
-.fa-sticker-mule {
+.tfa-sticker-mule {
   --fa: "\f3f7"; }
 
-.fa-creative-commons-zero {
+.tfa-creative-commons-zero {
   --fa: "\f4f3"; }
 
-.fa-hips {
+.tfa-hips {
   --fa: "\f452"; }
 
-.fa-css {
+.tfa-css {
   --fa: "\e6a2"; }
 
-.fa-behance {
+.tfa-behance {
   --fa: "\f1b4"; }
 
-.fa-reddit {
+.tfa-reddit {
   --fa: "\f1a1"; }
 
-.fa-discord {
+.tfa-discord {
   --fa: "\f392"; }
 
-.fa-chrome {
+.tfa-chrome {
   --fa: "\f268"; }
 
-.fa-app-store-ios {
+.tfa-app-store-ios {
   --fa: "\f370"; }
 
-.fa-cc-discover {
+.tfa-cc-discover {
   --fa: "\f1f2"; }
 
-.fa-wpbeginner {
+.tfa-wpbeginner {
   --fa: "\f297"; }
 
-.fa-confluence {
+.tfa-confluence {
   --fa: "\f78d"; }
 
-.fa-shoelace {
+.tfa-shoelace {
   --fa: "\e60c"; }
 
-.fa-mdb {
+.tfa-mdb {
   --fa: "\f8ca"; }
 
-.fa-dochub {
+.tfa-dochub {
   --fa: "\f394"; }
 
-.fa-accessible-icon {
+.tfa-accessible-icon {
   --fa: "\f368"; }
 
-.fa-ebay {
+.tfa-ebay {
   --fa: "\f4f4"; }
 
-.fa-amazon {
+.tfa-amazon {
   --fa: "\f270"; }
 
-.fa-unsplash {
+.tfa-unsplash {
   --fa: "\e07c"; }
 
-.fa-yarn {
+.tfa-yarn {
   --fa: "\f7e3"; }
 
-.fa-square-steam {
+.tfa-square-steam {
   --fa: "\f1b7"; }
 
-.fa-steam-square {
+.tfa-steam-square {
   --fa: "\f1b7"; }
 
-.fa-500px {
+.tfa-500px {
   --fa: "\f26e"; }
 
-.fa-square-vimeo {
+.tfa-square-vimeo {
   --fa: "\f194"; }
 
-.fa-vimeo-square {
+.tfa-vimeo-square {
   --fa: "\f194"; }
 
-.fa-asymmetrik {
+.tfa-asymmetrik {
   --fa: "\f372"; }
 
-.fa-font-awesome {
+.tfa-font-awesome {
   --fa: "\f2b4"; }
 
-.fa-font-awesome-flag {
+.tfa-font-awesome-flag {
   --fa: "\f2b4"; }
 
-.fa-font-awesome-logo-full {
+.tfa-font-awesome-logo-full {
   --fa: "\f2b4"; }
 
-.fa-gratipay {
+.tfa-gratipay {
   --fa: "\f184"; }
 
-.fa-apple {
+.tfa-apple {
   --fa: "\f179"; }
 
-.fa-hive {
+.tfa-hive {
   --fa: "\e07f"; }
 
-.fa-gitkraken {
+.tfa-gitkraken {
   --fa: "\f3a6"; }
 
-.fa-keybase {
+.tfa-keybase {
   --fa: "\f4f5"; }
 
-.fa-apple-pay {
+.tfa-apple-pay {
   --fa: "\f415"; }
 
-.fa-padlet {
+.tfa-padlet {
   --fa: "\e4a0"; }
 
-.fa-amazon-pay {
+.tfa-amazon-pay {
   --fa: "\f42c"; }
 
-.fa-square-github {
+.tfa-square-github {
   --fa: "\f092"; }
 
-.fa-github-square {
+.tfa-github-square {
   --fa: "\f092"; }
 
-.fa-stumbleupon {
+.tfa-stumbleupon {
   --fa: "\f1a4"; }
 
-.fa-fedex {
+.tfa-fedex {
   --fa: "\f797"; }
 
-.fa-phoenix-framework {
+.tfa-phoenix-framework {
   --fa: "\f3dc"; }
 
-.fa-shopify {
+.tfa-shopify {
   --fa: "\e057"; }
 
-.fa-neos {
+.tfa-neos {
   --fa: "\f612"; }
 
-.fa-square-threads {
+.tfa-square-threads {
   --fa: "\e619"; }
 
-.fa-hackerrank {
+.tfa-hackerrank {
   --fa: "\f5f7"; }
 
-.fa-researchgate {
+.tfa-researchgate {
   --fa: "\f4f8"; }
 
-.fa-swift {
+.tfa-swift {
   --fa: "\f8e1"; }
 
-.fa-angular {
+.tfa-angular {
   --fa: "\f420"; }
 
-.fa-speakap {
+.tfa-speakap {
   --fa: "\f3f3"; }
 
-.fa-angrycreative {
+.tfa-angrycreative {
   --fa: "\f36e"; }
 
-.fa-y-combinator {
+.tfa-y-combinator {
   --fa: "\f23b"; }
 
-.fa-empire {
+.tfa-empire {
   --fa: "\f1d1"; }
 
-.fa-envira {
+.tfa-envira {
   --fa: "\f299"; }
 
-.fa-google-scholar {
+.tfa-google-scholar {
   --fa: "\e63b"; }
 
-.fa-square-gitlab {
+.tfa-square-gitlab {
   --fa: "\e5ae"; }
 
-.fa-gitlab-square {
+.tfa-gitlab-square {
   --fa: "\e5ae"; }
 
-.fa-studiovinari {
+.tfa-studiovinari {
   --fa: "\f3f8"; }
 
-.fa-pied-piper {
+.tfa-pied-piper {
   --fa: "\f2ae"; }
 
-.fa-wordpress {
+.tfa-wordpress {
   --fa: "\f19a"; }
 
-.fa-product-hunt {
+.tfa-product-hunt {
   --fa: "\f288"; }
 
-.fa-firefox {
+.tfa-firefox {
   --fa: "\f269"; }
 
-.fa-linode {
+.tfa-linode {
   --fa: "\f2b8"; }
 
-.fa-goodreads {
+.tfa-goodreads {
   --fa: "\f3a8"; }
 
-.fa-square-odnoklassniki {
+.tfa-square-odnoklassniki {
   --fa: "\f264"; }
 
-.fa-odnoklassniki-square {
+.tfa-odnoklassniki-square {
   --fa: "\f264"; }
 
-.fa-jsfiddle {
+.tfa-jsfiddle {
   --fa: "\f1cc"; }
 
-.fa-sith {
+.tfa-sith {
   --fa: "\f512"; }
 
-.fa-themeisle {
+.tfa-themeisle {
   --fa: "\f2b2"; }
 
-.fa-page4 {
+.tfa-page4 {
   --fa: "\f3d7"; }
 
-.fa-hashnode {
+.tfa-hashnode {
   --fa: "\e499"; }
 
-.fa-react {
+.tfa-react {
   --fa: "\f41b"; }
 
-.fa-cc-paypal {
+.tfa-cc-paypal {
   --fa: "\f1f4"; }
 
-.fa-squarespace {
+.tfa-squarespace {
   --fa: "\f5be"; }
 
-.fa-cc-stripe {
+.tfa-cc-stripe {
   --fa: "\f1f5"; }
 
-.fa-creative-commons-share {
+.tfa-creative-commons-share {
   --fa: "\f4f2"; }
 
-.fa-bitcoin {
+.tfa-bitcoin {
   --fa: "\f379"; }
 
-.fa-keycdn {
+.tfa-keycdn {
   --fa: "\f3ba"; }
 
-.fa-opera {
+.tfa-opera {
   --fa: "\f26a"; }
 
-.fa-itch-io {
+.tfa-itch-io {
   --fa: "\f83a"; }
 
-.fa-umbraco {
+.tfa-umbraco {
   --fa: "\f8e8"; }
 
-.fa-galactic-senate {
+.tfa-galactic-senate {
   --fa: "\f50d"; }
 
-.fa-ubuntu {
+.tfa-ubuntu {
   --fa: "\f7df"; }
 
-.fa-draft2digital {
+.tfa-draft2digital {
   --fa: "\f396"; }
 
-.fa-stripe {
+.tfa-stripe {
   --fa: "\f429"; }
 
-.fa-houzz {
+.tfa-houzz {
   --fa: "\f27c"; }
 
-.fa-gg {
+.tfa-gg {
   --fa: "\f260"; }
 
-.fa-dhl {
+.tfa-dhl {
   --fa: "\f790"; }
 
-.fa-square-pinterest {
+.tfa-square-pinterest {
   --fa: "\f0d3"; }
 
-.fa-pinterest-square {
+.tfa-pinterest-square {
   --fa: "\f0d3"; }
 
-.fa-xing {
+.tfa-xing {
   --fa: "\f168"; }
 
-.fa-blackberry {
+.tfa-blackberry {
   --fa: "\f37b"; }
 
-.fa-creative-commons-pd {
+.tfa-creative-commons-pd {
   --fa: "\f4ec"; }
 
-.fa-playstation {
+.tfa-playstation {
   --fa: "\f3df"; }
 
-.fa-quinscape {
+.tfa-quinscape {
   --fa: "\f459"; }
 
-.fa-less {
+.tfa-less {
   --fa: "\f41d"; }
 
-.fa-blogger-b {
+.tfa-blogger-b {
   --fa: "\f37d"; }
 
-.fa-opencart {
+.tfa-opencart {
   --fa: "\f23d"; }
 
-.fa-vine {
+.tfa-vine {
   --fa: "\f1ca"; }
 
-.fa-signal-messenger {
+.tfa-signal-messenger {
   --fa: "\e663"; }
 
-.fa-paypal {
+.tfa-paypal {
   --fa: "\f1ed"; }
 
-.fa-gitlab {
+.tfa-gitlab {
   --fa: "\f296"; }
 
-.fa-typo3 {
+.tfa-typo3 {
   --fa: "\f42b"; }
 
-.fa-reddit-alien {
+.tfa-reddit-alien {
   --fa: "\f281"; }
 
-.fa-yahoo {
+.tfa-yahoo {
   --fa: "\f19e"; }
 
-.fa-dailymotion {
+.tfa-dailymotion {
   --fa: "\e052"; }
 
-.fa-affiliatetheme {
+.tfa-affiliatetheme {
   --fa: "\f36b"; }
 
-.fa-pied-piper-pp {
+.tfa-pied-piper-pp {
   --fa: "\f1a7"; }
 
-.fa-bootstrap {
+.tfa-bootstrap {
   --fa: "\f836"; }
 
-.fa-odnoklassniki {
+.tfa-odnoklassniki {
   --fa: "\f263"; }
 
-.fa-nfc-symbol {
+.tfa-nfc-symbol {
   --fa: "\e531"; }
 
-.fa-mintbit {
+.tfa-mintbit {
   --fa: "\e62f"; }
 
-.fa-ethereum {
+.tfa-ethereum {
   --fa: "\f42e"; }
 
-.fa-speaker-deck {
+.tfa-speaker-deck {
   --fa: "\f83c"; }
 
-.fa-creative-commons-nc-eu {
+.tfa-creative-commons-nc-eu {
   --fa: "\f4e9"; }
 
-.fa-patreon {
+.tfa-patreon {
   --fa: "\f3d9"; }
 
-.fa-avianex {
+.tfa-avianex {
   --fa: "\f374"; }
 
-.fa-ello {
+.tfa-ello {
   --fa: "\f5f1"; }
 
-.fa-gofore {
+.tfa-gofore {
   --fa: "\f3a7"; }
 
-.fa-bimobject {
+.tfa-bimobject {
   --fa: "\f378"; }
 
-.fa-brave-reverse {
+.tfa-brave-reverse {
   --fa: "\e63d"; }
 
-.fa-facebook-f {
+.tfa-facebook-f {
   --fa: "\f39e"; }
 
-.fa-square-google-plus {
+.tfa-square-google-plus {
   --fa: "\f0d4"; }
 
-.fa-google-plus-square {
+.tfa-google-plus-square {
   --fa: "\f0d4"; }
 
-.fa-web-awesome {
+.tfa-web-awesome {
   --fa: "\e682"; }
 
-.fa-mandalorian {
+.tfa-mandalorian {
   --fa: "\f50f"; }
 
-.fa-first-order-alt {
+.tfa-first-order-alt {
   --fa: "\f50a"; }
 
-.fa-osi {
+.tfa-osi {
   --fa: "\f41a"; }
 
-.fa-google-wallet {
+.tfa-google-wallet {
   --fa: "\f1ee"; }
 
-.fa-d-and-d-beyond {
+.tfa-d-and-d-beyond {
   --fa: "\f6ca"; }
 
-.fa-periscope {
+.tfa-periscope {
   --fa: "\f3da"; }
 
-.fa-fulcrum {
+.tfa-fulcrum {
   --fa: "\f50b"; }
 
-.fa-cloudscale {
+.tfa-cloudscale {
   --fa: "\f383"; }
 
-.fa-forumbee {
+.tfa-forumbee {
   --fa: "\f211"; }
 
-.fa-mizuni {
+.tfa-mizuni {
   --fa: "\f3cc"; }
 
-.fa-schlix {
+.tfa-schlix {
   --fa: "\f3ea"; }
 
-.fa-square-xing {
+.tfa-square-xing {
   --fa: "\f169"; }
 
-.fa-xing-square {
+.tfa-xing-square {
   --fa: "\f169"; }
 
-.fa-bandcamp {
+.tfa-bandcamp {
   --fa: "\f2d5"; }
 
-.fa-wpforms {
+.tfa-wpforms {
   --fa: "\f298"; }
 
-.fa-cloudversify {
+.tfa-cloudversify {
   --fa: "\f385"; }
 
-.fa-usps {
+.tfa-usps {
   --fa: "\f7e1"; }
 
-.fa-megaport {
+.tfa-megaport {
   --fa: "\f5a3"; }
 
-.fa-magento {
+.tfa-magento {
   --fa: "\f3c4"; }
 
-.fa-spotify {
+.tfa-spotify {
   --fa: "\f1bc"; }
 
-.fa-optin-monster {
+.tfa-optin-monster {
   --fa: "\f23c"; }
 
-.fa-fly {
+.tfa-fly {
   --fa: "\f417"; }
 
-.fa-square-bluesky {
+.tfa-square-bluesky {
   --fa: "\e6a3"; }
 
-.fa-aviato {
+.tfa-aviato {
   --fa: "\f421"; }
 
-.fa-itunes {
+.tfa-itunes {
   --fa: "\f3b4"; }
 
-.fa-cuttlefish {
+.tfa-cuttlefish {
   --fa: "\f38c"; }
 
-.fa-blogger {
+.tfa-blogger {
   --fa: "\f37c"; }
 
-.fa-flickr {
+.tfa-flickr {
   --fa: "\f16e"; }
 
-.fa-viber {
+.tfa-viber {
   --fa: "\f409"; }
 
-.fa-soundcloud {
+.tfa-soundcloud {
   --fa: "\f1be"; }
 
-.fa-digg {
+.tfa-digg {
   --fa: "\f1a6"; }
 
-.fa-tencent-weibo {
+.tfa-tencent-weibo {
   --fa: "\f1d5"; }
 
-.fa-letterboxd {
+.tfa-letterboxd {
   --fa: "\e62d"; }
 
-.fa-symfony {
+.tfa-symfony {
   --fa: "\f83d"; }
 
-.fa-maxcdn {
+.tfa-maxcdn {
   --fa: "\f136"; }
 
-.fa-etsy {
+.tfa-etsy {
   --fa: "\f2d7"; }
 
-.fa-facebook-messenger {
+.tfa-facebook-messenger {
   --fa: "\f39f"; }
 
-.fa-audible {
+.tfa-audible {
   --fa: "\f373"; }
 
-.fa-think-peaks {
+.tfa-think-peaks {
   --fa: "\f731"; }
 
-.fa-bilibili {
+.tfa-bilibili {
   --fa: "\e3d9"; }
 
-.fa-erlang {
+.tfa-erlang {
   --fa: "\f39d"; }
 
-.fa-x-twitter {
+.tfa-x-twitter {
   --fa: "\e61b"; }
 
-.fa-cotton-bureau {
+.tfa-cotton-bureau {
   --fa: "\f89e"; }
 
-.fa-dashcube {
+.tfa-dashcube {
   --fa: "\f210"; }
 
-.fa-42-group {
+.tfa-42-group {
   --fa: "\e080"; }
 
-.fa-innosoft {
+.tfa-innosoft {
   --fa: "\e080"; }
 
-.fa-stack-exchange {
+.tfa-stack-exchange {
   --fa: "\f18d"; }
 
-.fa-elementor {
+.tfa-elementor {
   --fa: "\f430"; }
 
-.fa-square-pied-piper {
+.tfa-square-pied-piper {
   --fa: "\e01e"; }
 
-.fa-pied-piper-square {
+.tfa-pied-piper-square {
   --fa: "\e01e"; }
 
-.fa-creative-commons-nd {
+.tfa-creative-commons-nd {
   --fa: "\f4eb"; }
 
-.fa-palfed {
+.tfa-palfed {
   --fa: "\f3d8"; }
 
-.fa-superpowers {
+.tfa-superpowers {
   --fa: "\f2dd"; }
 
-.fa-resolving {
+.tfa-resolving {
   --fa: "\f3e7"; }
 
-.fa-xbox {
+.tfa-xbox {
   --fa: "\f412"; }
 
-.fa-square-web-awesome-stroke {
+.tfa-square-web-awesome-stroke {
   --fa: "\e684"; }
 
-.fa-searchengin {
+.tfa-searchengin {
   --fa: "\f3eb"; }
 
-.fa-tiktok {
+.tfa-tiktok {
   --fa: "\e07b"; }
 
-.fa-square-facebook {
+.tfa-square-facebook {
   --fa: "\f082"; }
 
-.fa-facebook-square {
+.tfa-facebook-square {
   --fa: "\f082"; }
 
-.fa-renren {
+.tfa-renren {
   --fa: "\f18b"; }
 
-.fa-linux {
+.tfa-linux {
   --fa: "\f17c"; }
 
-.fa-glide {
+.tfa-glide {
   --fa: "\f2a5"; }
 
-.fa-linkedin {
+.tfa-linkedin {
   --fa: "\f08c"; }
 
-.fa-hubspot {
+.tfa-hubspot {
   --fa: "\f3b2"; }
 
-.fa-deploydog {
+.tfa-deploydog {
   --fa: "\f38e"; }
 
-.fa-twitch {
+.tfa-twitch {
   --fa: "\f1e8"; }
 
-.fa-flutter {
+.tfa-flutter {
   --fa: "\e694"; }
 
-.fa-ravelry {
+.tfa-ravelry {
   --fa: "\f2d9"; }
 
-.fa-mixer {
+.tfa-mixer {
   --fa: "\e056"; }
 
-.fa-square-lastfm {
+.tfa-square-lastfm {
   --fa: "\f203"; }
 
-.fa-lastfm-square {
+.tfa-lastfm-square {
   --fa: "\f203"; }
 
-.fa-vimeo {
+.tfa-vimeo {
   --fa: "\f40a"; }
 
-.fa-mendeley {
+.tfa-mendeley {
   --fa: "\f7b3"; }
 
-.fa-uniregistry {
+.tfa-uniregistry {
   --fa: "\f404"; }
 
-.fa-figma {
+.tfa-figma {
   --fa: "\f799"; }
 
-.fa-creative-commons-remix {
+.tfa-creative-commons-remix {
   --fa: "\f4ee"; }
 
-.fa-cc-amazon-pay {
+.tfa-cc-amazon-pay {
   --fa: "\f42d"; }
 
-.fa-dropbox {
+.tfa-dropbox {
   --fa: "\f16b"; }
 
-.fa-instagram {
+.tfa-instagram {
   --fa: "\f16d"; }
 
-.fa-cmplid {
+.tfa-cmplid {
   --fa: "\e360"; }
 
-.fa-upwork {
+.tfa-upwork {
   --fa: "\e641"; }
 
-.fa-facebook {
+.tfa-facebook {
   --fa: "\f09a"; }
 
-.fa-gripfire {
+.tfa-gripfire {
   --fa: "\f3ac"; }
 
-.fa-jedi-order {
+.tfa-jedi-order {
   --fa: "\f50e"; }
 
-.fa-uikit {
+.tfa-uikit {
   --fa: "\f403"; }
 
-.fa-fort-awesome-alt {
+.tfa-fort-awesome-alt {
   --fa: "\f3a3"; }
 
-.fa-phabricator {
+.tfa-phabricator {
   --fa: "\f3db"; }
 
-.fa-ussunnah {
+.tfa-ussunnah {
   --fa: "\f407"; }
 
-.fa-earlybirds {
+.tfa-earlybirds {
   --fa: "\f39a"; }
 
-.fa-trade-federation {
+.tfa-trade-federation {
   --fa: "\f513"; }
 
-.fa-autoprefixer {
+.tfa-autoprefixer {
   --fa: "\f41c"; }
 
-.fa-whatsapp {
+.tfa-whatsapp {
   --fa: "\f232"; }
 
-.fa-square-upwork {
+.tfa-square-upwork {
   --fa: "\e67c"; }
 
-.fa-slideshare {
+.tfa-slideshare {
   --fa: "\f1e7"; }
 
-.fa-google-play {
+.tfa-google-play {
   --fa: "\f3ab"; }
 
-.fa-viadeo {
+.tfa-viadeo {
   --fa: "\f2a9"; }
 
-.fa-line {
+.tfa-line {
   --fa: "\f3c0"; }
 
-.fa-google-drive {
+.tfa-google-drive {
   --fa: "\f3aa"; }
 
-.fa-servicestack {
+.tfa-servicestack {
   --fa: "\f3ec"; }
 
-.fa-simplybuilt {
+.tfa-simplybuilt {
   --fa: "\f215"; }
 
-.fa-bitbucket {
+.tfa-bitbucket {
   --fa: "\f171"; }
 
-.fa-imdb {
+.tfa-imdb {
   --fa: "\f2d8"; }
 
-.fa-deezer {
+.tfa-deezer {
   --fa: "\e077"; }
 
-.fa-raspberry-pi {
+.tfa-raspberry-pi {
   --fa: "\f7bb"; }
 
-.fa-jira {
+.tfa-jira {
   --fa: "\f7b1"; }
 
-.fa-docker {
+.tfa-docker {
   --fa: "\f395"; }
 
-.fa-screenpal {
+.tfa-screenpal {
   --fa: "\e570"; }
 
-.fa-bluetooth {
+.tfa-bluetooth {
   --fa: "\f293"; }
 
-.fa-gitter {
+.tfa-gitter {
   --fa: "\f426"; }
 
-.fa-d-and-d {
+.tfa-d-and-d {
   --fa: "\f38d"; }
 
-.fa-microblog {
+.tfa-microblog {
   --fa: "\e01a"; }
 
-.fa-cc-diners-club {
+.tfa-cc-diners-club {
   --fa: "\f24c"; }
 
-.fa-gg-circle {
+.tfa-gg-circle {
   --fa: "\f261"; }
 
-.fa-pied-piper-hat {
+.tfa-pied-piper-hat {
   --fa: "\f4e5"; }
 
-.fa-kickstarter-k {
+.tfa-kickstarter-k {
   --fa: "\f3bc"; }
 
-.fa-yandex {
+.tfa-yandex {
   --fa: "\f413"; }
 
-.fa-readme {
+.tfa-readme {
   --fa: "\f4d5"; }
 
-.fa-html5 {
+.tfa-html5 {
   --fa: "\f13b"; }
 
-.fa-sellsy {
+.tfa-sellsy {
   --fa: "\f213"; }
 
-.fa-square-web-awesome {
+.tfa-square-web-awesome {
   --fa: "\e683"; }
 
-.fa-sass {
+.tfa-sass {
   --fa: "\f41e"; }
 
-.fa-wirsindhandwerk {
+.tfa-wirsindhandwerk {
   --fa: "\e2d0"; }
 
-.fa-wsh {
+.tfa-wsh {
   --fa: "\e2d0"; }
 
-.fa-buromobelexperte {
+.tfa-buromobelexperte {
   --fa: "\f37f"; }
 
-.fa-salesforce {
+.tfa-salesforce {
   --fa: "\f83b"; }
 
-.fa-octopus-deploy {
+.tfa-octopus-deploy {
   --fa: "\e082"; }
 
-.fa-medapps {
+.tfa-medapps {
   --fa: "\f3c6"; }
 
-.fa-ns8 {
+.tfa-ns8 {
   --fa: "\f3d5"; }
 
-.fa-pinterest-p {
+.tfa-pinterest-p {
   --fa: "\f231"; }
 
-.fa-apper {
+.tfa-apper {
   --fa: "\f371"; }
 
-.fa-fort-awesome {
+.tfa-fort-awesome {
   --fa: "\f286"; }
 
-.fa-waze {
+.tfa-waze {
   --fa: "\f83f"; }
 
-.fa-bluesky {
+.tfa-bluesky {
   --fa: "\e671"; }
 
-.fa-cc-jcb {
+.tfa-cc-jcb {
   --fa: "\f24b"; }
 
-.fa-snapchat {
+.tfa-snapchat {
   --fa: "\f2ab"; }
 
-.fa-snapchat-ghost {
+.tfa-snapchat-ghost {
   --fa: "\f2ab"; }
 
-.fa-fantasy-flight-games {
+.tfa-fantasy-flight-games {
   --fa: "\f6dc"; }
 
-.fa-rust {
+.tfa-rust {
   --fa: "\e07a"; }
 
-.fa-wix {
+.tfa-wix {
   --fa: "\f5cf"; }
 
-.fa-square-behance {
+.tfa-square-behance {
   --fa: "\f1b5"; }
 
-.fa-behance-square {
+.tfa-behance-square {
   --fa: "\f1b5"; }
 
-.fa-supple {
+.tfa-supple {
   --fa: "\f3f9"; }
 
-.fa-webflow {
+.tfa-webflow {
   --fa: "\e65c"; }
 
-.fa-rebel {
+.tfa-rebel {
   --fa: "\f1d0"; }
 
-.fa-css3 {
+.tfa-css3 {
   --fa: "\f13c"; }
 
-.fa-staylinked {
+.tfa-staylinked {
   --fa: "\f3f5"; }
 
-.fa-kaggle {
+.tfa-kaggle {
   --fa: "\f5fa"; }
 
-.fa-space-awesome {
+.tfa-space-awesome {
   --fa: "\e5ac"; }
 
-.fa-deviantart {
+.tfa-deviantart {
   --fa: "\f1bd"; }
 
-.fa-cpanel {
+.tfa-cpanel {
   --fa: "\f388"; }
 
-.fa-goodreads-g {
+.tfa-goodreads-g {
   --fa: "\f3a9"; }
 
-.fa-square-git {
+.tfa-square-git {
   --fa: "\f1d2"; }
 
-.fa-git-square {
+.tfa-git-square {
   --fa: "\f1d2"; }
 
-.fa-square-tumblr {
+.tfa-square-tumblr {
   --fa: "\f174"; }
 
-.fa-tumblr-square {
+.tfa-tumblr-square {
   --fa: "\f174"; }
 
-.fa-trello {
+.tfa-trello {
   --fa: "\f181"; }
 
-.fa-creative-commons-nc-jp {
+.tfa-creative-commons-nc-jp {
   --fa: "\f4ea"; }
 
-.fa-get-pocket {
+.tfa-get-pocket {
   --fa: "\f265"; }
 
-.fa-perbyte {
+.tfa-perbyte {
   --fa: "\e083"; }
 
-.fa-grunt {
+.tfa-grunt {
   --fa: "\f3ad"; }
 
-.fa-weebly {
+.tfa-weebly {
   --fa: "\f5cc"; }
 
-.fa-connectdevelop {
+.tfa-connectdevelop {
   --fa: "\f20e"; }
 
-.fa-leanpub {
+.tfa-leanpub {
   --fa: "\f212"; }
 
-.fa-black-tie {
+.tfa-black-tie {
   --fa: "\f27e"; }
 
-.fa-themeco {
+.tfa-themeco {
   --fa: "\f5c6"; }
 
-.fa-python {
+.tfa-python {
   --fa: "\f3e2"; }
 
-.fa-android {
+.tfa-android {
   --fa: "\f17b"; }
 
-.fa-bots {
+.tfa-bots {
   --fa: "\e340"; }
 
-.fa-free-code-camp {
+.tfa-free-code-camp {
   --fa: "\f2c5"; }
 
-.fa-hornbill {
+.tfa-hornbill {
   --fa: "\f592"; }
 
-.fa-js {
+.tfa-js {
   --fa: "\f3b8"; }
 
-.fa-ideal {
+.tfa-ideal {
   --fa: "\e013"; }
 
-.fa-git {
+.tfa-git {
   --fa: "\f1d3"; }
 
-.fa-dev {
+.tfa-dev {
   --fa: "\f6cc"; }
 
-.fa-sketch {
+.tfa-sketch {
   --fa: "\f7c6"; }
 
-.fa-yandex-international {
+.tfa-yandex-international {
   --fa: "\f414"; }
 
-.fa-cc-amex {
+.tfa-cc-amex {
   --fa: "\f1f3"; }
 
-.fa-uber {
+.tfa-uber {
   --fa: "\f402"; }
 
-.fa-github {
+.tfa-github {
   --fa: "\f09b"; }
 
-.fa-php {
+.tfa-php {
   --fa: "\f457"; }
 
-.fa-alipay {
+.tfa-alipay {
   --fa: "\f642"; }
 
-.fa-youtube {
+.tfa-youtube {
   --fa: "\f167"; }
 
-.fa-skyatlas {
+.tfa-skyatlas {
   --fa: "\f216"; }
 
-.fa-firefox-browser {
+.tfa-firefox-browser {
   --fa: "\e007"; }
 
-.fa-replyd {
+.tfa-replyd {
   --fa: "\f3e6"; }
 
-.fa-suse {
+.tfa-suse {
   --fa: "\f7d6"; }
 
-.fa-jenkins {
+.tfa-jenkins {
   --fa: "\f3b6"; }
 
-.fa-twitter {
+.tfa-twitter {
   --fa: "\f099"; }
 
-.fa-rockrms {
+.tfa-rockrms {
   --fa: "\f3e9"; }
 
-.fa-pinterest {
+.tfa-pinterest {
   --fa: "\f0d2"; }
 
-.fa-buffer {
+.tfa-buffer {
   --fa: "\f837"; }
 
-.fa-npm {
+.tfa-npm {
   --fa: "\f3d4"; }
 
-.fa-yammer {
+.tfa-yammer {
   --fa: "\f840"; }
 
-.fa-btc {
+.tfa-btc {
   --fa: "\f15a"; }
 
-.fa-dribbble {
+.tfa-dribbble {
   --fa: "\f17d"; }
 
-.fa-stumbleupon-circle {
+.tfa-stumbleupon-circle {
   --fa: "\f1a3"; }
 
-.fa-internet-explorer {
+.tfa-internet-explorer {
   --fa: "\f26b"; }
 
-.fa-stubber {
+.tfa-stubber {
   --fa: "\e5c7"; }
 
-.fa-telegram {
+.tfa-telegram {
   --fa: "\f2c6"; }
 
-.fa-telegram-plane {
+.tfa-telegram-plane {
   --fa: "\f2c6"; }
 
-.fa-old-republic {
+.tfa-old-republic {
   --fa: "\f510"; }
 
-.fa-odysee {
+.tfa-odysee {
   --fa: "\e5c6"; }
 
-.fa-square-whatsapp {
+.tfa-square-whatsapp {
   --fa: "\f40c"; }
 
-.fa-whatsapp-square {
+.tfa-whatsapp-square {
   --fa: "\f40c"; }
 
-.fa-node-js {
+.tfa-node-js {
   --fa: "\f3d3"; }
 
-.fa-edge-legacy {
+.tfa-edge-legacy {
   --fa: "\e078"; }
 
-.fa-slack {
+.tfa-slack {
   --fa: "\f198"; }
 
-.fa-slack-hash {
+.tfa-slack-hash {
   --fa: "\f198"; }
 
-.fa-medrt {
+.tfa-medrt {
   --fa: "\f3c8"; }
 
-.fa-usb {
+.tfa-usb {
   --fa: "\f287"; }
 
-.fa-tumblr {
+.tfa-tumblr {
   --fa: "\f173"; }
 
-.fa-vaadin {
+.tfa-vaadin {
   --fa: "\f408"; }
 
-.fa-quora {
+.tfa-quora {
   --fa: "\f2c4"; }
 
-.fa-square-x-twitter {
+.tfa-square-x-twitter {
   --fa: "\e61a"; }
 
-.fa-reacteurope {
+.tfa-reacteurope {
   --fa: "\f75d"; }
 
-.fa-medium {
+.tfa-medium {
   --fa: "\f23a"; }
 
-.fa-medium-m {
+.tfa-medium-m {
   --fa: "\f23a"; }
 
-.fa-amilia {
+.tfa-amilia {
   --fa: "\f36d"; }
 
-.fa-mixcloud {
+.tfa-mixcloud {
   --fa: "\f289"; }
 
-.fa-flipboard {
+.tfa-flipboard {
   --fa: "\f44d"; }
 
-.fa-viacoin {
+.tfa-viacoin {
   --fa: "\f237"; }
 
-.fa-critical-role {
+.tfa-critical-role {
   --fa: "\f6c9"; }
 
-.fa-sitrox {
+.tfa-sitrox {
   --fa: "\e44a"; }
 
-.fa-discourse {
+.tfa-discourse {
   --fa: "\f393"; }
 
-.fa-joomla {
+.tfa-joomla {
   --fa: "\f1aa"; }
 
-.fa-mastodon {
+.tfa-mastodon {
   --fa: "\f4f6"; }
 
-.fa-airbnb {
+.tfa-airbnb {
   --fa: "\f834"; }
 
-.fa-wolf-pack-battalion {
+.tfa-wolf-pack-battalion {
   --fa: "\f514"; }
 
-.fa-buy-n-large {
+.tfa-buy-n-large {
   --fa: "\f8a6"; }
 
-.fa-gulp {
+.tfa-gulp {
   --fa: "\f3ae"; }
 
-.fa-creative-commons-sampling-plus {
+.tfa-creative-commons-sampling-plus {
   --fa: "\f4f1"; }
 
-.fa-strava {
+.tfa-strava {
   --fa: "\f428"; }
 
-.fa-ember {
+.tfa-ember {
   --fa: "\f423"; }
 
-.fa-canadian-maple-leaf {
+.tfa-canadian-maple-leaf {
   --fa: "\f785"; }
 
-.fa-teamspeak {
+.tfa-teamspeak {
   --fa: "\f4f9"; }
 
-.fa-pushed {
+.tfa-pushed {
   --fa: "\f3e1"; }
 
-.fa-wordpress-simple {
+.tfa-wordpress-simple {
   --fa: "\f411"; }
 
-.fa-nutritionix {
+.tfa-nutritionix {
   --fa: "\f3d6"; }
 
-.fa-wodu {
+.tfa-wodu {
   --fa: "\e088"; }
 
-.fa-google-pay {
+.tfa-google-pay {
   --fa: "\e079"; }
 
-.fa-intercom {
+.tfa-intercom {
   --fa: "\f7af"; }
 
-.fa-zhihu {
+.tfa-zhihu {
   --fa: "\f63f"; }
 
-.fa-korvue {
+.tfa-korvue {
   --fa: "\f42f"; }
 
-.fa-pix {
+.tfa-pix {
   --fa: "\e43a"; }
 
-.fa-steam-symbol {
+.tfa-steam-symbol {
   --fa: "\f3f6"; }
